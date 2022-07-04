@@ -2,7 +2,7 @@
 
 <hr />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roqhdehd502&theme=dark)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roqhdehd502&theme=dark)
 
 
 
