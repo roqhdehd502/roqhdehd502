@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roqhdehd502&theme=dark&layout=compact)](https://github.com/roqhdehd502/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roqhdehd502&theme=dark&layout=compact)
 
 <hr />
 
