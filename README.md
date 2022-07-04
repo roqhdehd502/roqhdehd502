@@ -16,12 +16,18 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=ffffff)  
 
-
+  
 ### Back
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-C74633?style=flat-square&logo=oracle&logoColor=ffffff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
 
+  
 ### Client
-![Electron](http://img.shields.io/badge/-Electron-2B2C3E?style=flat-square&logo=electron&logoColor=ffffff)  
+![Electron](http://img.shields.io/badge/-Electron-2B2C3E?style=flat-square&logo=electron&logoColor=ffffff)
+  
+
 <!-- 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -30,7 +36,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
