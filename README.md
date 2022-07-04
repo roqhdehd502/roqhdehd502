@@ -1,16 +1,17 @@
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roqhdehd502&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqhdehd502&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<div align="center"> 
+   <a href="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roqhdehd502&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roqhdehd502&theme=react&line_height=40&hide=css"/>
+  </a>
+</div>
 
 <br/>
 
 ---
 
+<div align="center"> 
 ### Front
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -52,3 +53,4 @@
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff) -->
+</div>
