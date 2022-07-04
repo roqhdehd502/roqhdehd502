@@ -11,11 +11,17 @@
 
 ---
 
-
+### Front
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=ffffff)  
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)  
+
+
+### Back
+![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+
+### Client
+![Electron](http://img.shields.io/badge/-Electron-2B2C3E?style=flat-square&logo=electron&logoColor=ffffff)  
 <!-- 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
