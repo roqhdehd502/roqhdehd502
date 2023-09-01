@@ -16,11 +16,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=ffffff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-5FCAF8?style=flat-square&logo=flutter&logoColor=ffffff)
+![NextJS](https://img.shields.io/badge/-NextJS-61DAFB?style=flat-square&logo=nextjs&logoColor=ffffff)
+![RemixJS](https://img.shields.io/badge/-RemixJS-61DAFB?style=flat-square&logo=remixjs&logoColor=ffffff)
 
   
 ### Back
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Ruby On Rails](http://img.shields.io/badge/-RubyOnRails-6DB33F?style=flat-square&logo=ruby-on-rails&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-C74633?style=flat-square&logo=oracle&logoColor=ffffff)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
