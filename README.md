@@ -23,9 +23,12 @@
 
   
 ### Back
+![NestJS](http://img.shields.io/badge/-Nest.js?style=flat-square&logo=nestjs&logoColor=ffffff)
+![ExpressJS](https://img.shields.io/badge/-Expressjs-339933?style=flat-square&logo=expressjs&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Ruby On Rails](http://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=ruby-on-rails&logoColor=red)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB?style=flat-square&logo=mongodb&logoColor=ffffff)  
 ![Oracle](https://img.shields.io/badge/-Oracle-C74633?style=flat-square&logo=oracle&logoColor=ffffff)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
 
