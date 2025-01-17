@@ -16,20 +16,24 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=000000&labelColor=blue&color=blue)
 
-![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=ffffff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextjs&logoColor=ffffff)
 ![RemixJS](https://img.shields.io/badge/-Remix-black?style=flat-square&logo=remixjs&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=ffffff)  
 
   
 ### Back
-![NestJS](http://img.shields.io/badge/-Nest.js?style=flat-square&logo=nestjs&logoColor=ffffff)
-![ExpressJS](https://img.shields.io/badge/-Expressjs-339933?style=flat-square&logo=expressjs&logoColor=ffffff)
+![NestJS](http://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)
+![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+
 ![Ruby On Rails](http://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=ruby-on-rails&logoColor=red)
-![MongoDB](https://img.shields.io/badge/-MongoDB?style=flat-square&logo=mongodb&logoColor=ffffff)  
-![Oracle](https://img.shields.io/badge/-Oracle-C74633?style=flat-square&logo=oracle&logoColor=ffffff)  
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-C74633?style=flat-square&logo=oracle&logoColor=ffffff)
+
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
 
   
