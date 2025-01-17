@@ -33,9 +33,15 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
-
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
+
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=ffffff)
+![BullMQ](https://img.shields.io/badge/-BullMQ-EA2127?style=flat-square&logo=bull&logoColor=ffffff)
+
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Coolify](https://img.shields.io/badge/-Coolify-3C78EF?style=flat-square&logo=coolify&logoColor=ffffff)
 
 
 ### Block-chain
@@ -46,13 +52,13 @@
 
   
 ### Client
-![Electron](http://img.shields.io/badge/-Electron-2B2C3E?style=flat-square&logo=electron&logoColor=ffffff)
+![Electron](https://img.shields.io/badge/-Electron-2B2C3E?style=flat-square&logo=electron&logoColor=ffffff)
   
 
 ### Tools
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)  
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![InteliJ](http://img.shields.io/badge/-InteliJ-EE3466?style=flat-square&logo=Intelij&logoColor=ffffff)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-EE3466?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 
 ### SCM
