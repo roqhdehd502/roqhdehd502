@@ -33,9 +33,16 @@
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=ffffff)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)  
+
+
+### Block-chain
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=ffffff)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=ffffff)
+![Solana](https://img.shields.io/badge/-Solana-4E44CE?style=flat-square&logo=solana&logoColor=ffffff)
+![Tron](https://img.shields.io/badge/-Tron-EB0029?style=flat-square&logo=tron&logoColor=ffffff)
 
   
 ### Client
